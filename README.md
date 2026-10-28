@@ -37,5 +37,4 @@ Lockstep acts as a neutral, decentralized vault.
 3. Build the program: `anchor build`
 4. Run the test suite: `anchor test`
 
----
-*Built with ❤️ for the Superteam Nigeria Grant.*
+
